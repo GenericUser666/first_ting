@@ -1,1 +1,1 @@
-pritn ("ting")
+print ("ting")
